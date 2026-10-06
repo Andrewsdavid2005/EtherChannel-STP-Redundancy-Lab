@@ -1,6 +1,6 @@
 # EtherChannel & STP Redundancy Lab
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates **EtherChannel, LACP, Port-Channel, Spanning Tree Protocol (STP), and Layer-2 network redundancy** using Cisco Packet Tracer.
 
@@ -10,7 +10,7 @@ The project includes link-failure testing to demonstrate network redundancy and 
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Configure LACP EtherChannel between two Cisco switches
 - Create a logical Port-Channel
@@ -24,7 +24,7 @@ The project includes link-failure testing to demonstrate network redundancy and 
 
 ---
 
-## 🏗️ Network Topology
+## Network Topology
 
 ```text
        PC1                         PC3
